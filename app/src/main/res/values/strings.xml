@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EzJob</string>
+    <string name="error_disconnected">Không có kết nối đến dữ liệu!</string>
+    <string name="error_session_invalid">Hãy gửi mã số _d cho quản lý để kích hoạt tài khoản</string>
+    <string name="dialog_try_again">Thử lại</string>
+    <string name="dialog_OK">OK</string>
+</resources>
